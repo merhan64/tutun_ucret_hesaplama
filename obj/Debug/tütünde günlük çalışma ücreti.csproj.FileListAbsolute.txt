@@ -1,0 +1,7 @@
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\obj\Debug\tütünde günlük çalışma ücreti.csprojAssemblyReference.cache
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\obj\Debug\tütünde günlük çalışma ücreti.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\bin\Debug\tütünde günlük çalışma ücreti.exe.config
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\bin\Debug\tütünde günlük çalışma ücreti.exe
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\bin\Debug\tütünde günlük çalışma ücreti.pdb
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\obj\Debug\tütünde günlük çalışma ücreti.exe
+C:\Users\A\source\repos\tütünde günlük çalışma ücreti\tütünde günlük çalışma ücreti\obj\Debug\tütünde günlük çalışma ücreti.pdb
